@@ -1,0 +1,12 @@
+﻿Model,battery,screen,screen,screen,audio,audio,audio,mic,camera,camera,sensor,sensor,sensor,sensor,sensor,sensor,sensor,sensor,sensor,other,other
+galaxy s10,battery,display,screen,resolution,jack,speaker,audio,mic,camera,zoom,accelerometer,barometer,fingerprintg,gyro,geomagnetic,hall,,,proximity,,
+galaxy s9,battery,display,screen,resolution,jack,speaker,audio,mic,camera,zoom,accelerometer,barometer,fingerprint,gyro,geomagnetic,hall,iris,pressure,proximity,,
+galaxy note10 plus,battery,display,screen,resolution,,speaker,audio,mic,camera,zoom,accelerometer,barometer,fingerprint,gyro,geomagnetic,hall,,,proximity,pen,spen
+galaxy note9,battery,display,screen,resolution,jack,speaker,audio,mic,camera,zoom,accelerometer,barometer,fingerprint,gyro,geomagnetic,hall,iris,pressure,proximity,pen,spen
+galaxy fold,battery,display,screen,resolution,,speaker,audio,mic,camera,zoom,accelerometer,barometer,fingerprint,gyro,geomagnetic,hall,,,proximity,foldable,folding
+iphone 11,,,,,,,,,,,,,,,,,,,,,
+iphone 10,,,,,,,,,,,,,,,,,,,,,
+iphone 9,,,,,,,,,,,,,,,,,,,,,
+huawei p10,,,,,,,,,,,,,,,,,,,,,
+huawei p20,,,,,,,,,,,,,,,,,,,,,
+huawei p30,,,,,,,,,,,,,,,,,,,,,
